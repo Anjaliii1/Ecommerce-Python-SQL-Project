@@ -1,8 +1,8 @@
 # Ecommerce-Python-SQL-Project
 
-### TOOL : Jupyter Notebook, MYSQL
-### Language : Python, SQL
-### Library : Numpy, Pandas, Matplotlib, Seaborn
+####  Language : Python, SQL
+####  TOOL : Jupyter Notebook, MYSQL
+####  Library : Numpy, Pandas, Matplotlib, Seaborn
 
 ### Problem Statements :
 
